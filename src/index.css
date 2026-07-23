@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --color-slate-blue: #81A6C6;
+    --color-sea-blue: #AACDDC;
+    --color-soft-cream: #F3E3D0;
+    --color-warm-taupe: #D2C4B4;
+}
+
+body {
+    background-color: #fafbfc;
+    color: #1a1a1a;
+    overflow-x: hidden;
+}
